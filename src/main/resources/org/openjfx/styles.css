@@ -1,0 +1,7 @@
+.button {
+    -fx-text-fill: blue;
+}
+
+.green-text {
+    -fx-text-fill: red !important;
+}
